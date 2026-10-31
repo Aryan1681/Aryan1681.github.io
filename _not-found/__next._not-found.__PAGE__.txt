@@ -1,0 +1,28 @@
+2:"$Sreact.fragment"
+3:"/_next/static/chunks/42onvq6nokjl2.js"
+4:"/_next/static/chunks/1m4r3h1qzhj2j.js"
+5:"/_next/static/chunks/1aop6v17yoz2c.js"
+6:I[39756,["$3","$4","$5"],"default"]
+7:I[37457,["$3","$4","$5"],"default"]
+c:I[22016,["$3","$4","$5"],""]
+d:I[97367,["$3","$4","$5"],"OutletBoundary"]
+e:"$Sreact.suspense"
+11:"ViewportBoundary"
+12:I[97367,["$3","$4","$5"],"$11"]
+13:"MetadataBoundary"
+14:I[97367,["$3","$4","$5"],"$13"]
+15:I[27201,["$3","$4","$5"],"IconMark"]
+9:X
+9:C
+a:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","section",null,{"className":"relative mx-auto flex min-h-[80vh] max-w-3xl flex-col justify-center px-4 pt-24 sm:px-6","children":["$","div",null,{"className":"overflow-hidden rounded-xl border border-line-2 bg-[#0a0c0e]/95 font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center gap-1.5 border-b border-line px-4 py-2.5","children":[["$","span",null,{"className":"size-3 rounded-full bg-danger/90"}],["$","span",null,{"className":"size-3 rounded-full bg-amber/90"}],["$","span",null,{"className":"size-3 rounded-full bg-accent/90"}]]}],["$","div",null,{"className":"space-y-2 p-5 leading-relaxed","children":[["$","p",null,{"className":"text-fg","children":[["$","span",null,{"className":"text-accent","children":"❯"}]," cd ./this-page"]}],["$","p",null,{"className":"text-danger","children":"cd: no such file or directory"}],["$","p",null,{"className":"text-muted","children":"exit code 404. The page you're looking for was never committed, or got force-pushed away."}],["$","p",null,{"className":"pt-3 text-fg","children":[["$","span",null,{"className":"text-accent","children":"❯"}]," ",["$","$Lc",null,{"href":"/","className":"text-accent underline underline-offset-4","children":"cd ~"}]," ",["$","span",null,{"className":"text-dim","children":"or"}]," ",["$","$Lc",null,{"href":"/projects","className":"text-cyan underline underline-offset-4","children":"ls ~/projects"}]]}]]}]]}]}],null,["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],"p":"$@10","v":null,"s":"$a"}}]]
+1:[["children",{"s":"/_not-found","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@8","v":"$9","s":"$a"},"c":"$Qb"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L12",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#070809"}],["$","meta","3",{"name":"color-scheme","content":"dark"}]]}],["$","$L14",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Aryan Raval · Software Engineer"}],["$","meta","1",{"name":"description","content":"Aryan Raval: full-stack software engineer and CS senior at Arizona State (3.99 GPA). Next.js, TypeScript, Java, Python, Docker, Linux and CI/CD. SWE Intern at NSV, Inc."}],["$","meta","2",{"name":"author","content":"Aryan Raval"}],["$","meta","3",{"name":"keywords","content":"Aryan Raval,software engineer,full-stack,Next.js,TypeScript,DevOps,ASU,portfolio"}],["$","meta","4",{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","meta","5",{"property":"og:title","content":"Aryan Raval · Software Engineer"}],["$","meta","6",{"property":"og:description","content":"Full-stack products and the infrastructure they ship on."}],["$","meta","7",{"property":"og:image","content":"https://aryan1681.github.io/images/aryan-portrait.jpg"}],["$","meta","8",{"property":"og:image:width","content":"853"}],["$","meta","9",{"property":"og:image:height","content":"1280"}],["$","meta","10",{"property":"og:image:alt","content":"Aryan Raval"}],["$","meta","11",{"property":"og:type","content":"website"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"Aryan Raval · Software Engineer"}],["$","meta","14",{"name":"twitter:description","content":"Full-stack products and the infrastructure they ship on."}],["$","meta","15",{"name":"twitter:image","content":"https://aryan1681.github.io/images/aryan-portrait.jpg"}],["$","meta","16",{"name":"twitter:image:alt","content":"Aryan Raval"}],["$","meta","17",{"name":"twitter:image:width","content":"853"}],["$","meta","18",{"name":"twitter:image:height","content":"1280"}],["$","link","19",{"rel":"icon","href":"/icon.svg?icon.2ribvxsm2359e.svg","sizes":"any","type":"image/svg+xml"}],["$","$L15","20",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@16","v":null,"s":"$a"}},"a":"$@17","u":"$@18","b":"28-L0OWMkVD_NwsTJmp02"}
+f:null
+18:true
+a:300
+a:C
+17:0
+8:"$undefined"
+16:"$undefined"
+10:"$undefined"
